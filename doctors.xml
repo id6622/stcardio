@@ -1,0 +1,629 @@
+<yml_catalog date="2023-12-13T18:50">
+    <shop>
+        <name>Северо-Западный центр диагностики и лечения аритмий</name>
+        <url>https://stcardio.ru/</url>
+        <picture>https://static.tildacdn.com/tild3430-3864-4566-b534-333361373064/ST_-_2_1.svg</picture>
+        <description>Каталог врачей</description>
+        <currencies>
+        <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+        <category id="1">Врач</category>
+        </categories>
+        <sets>
+            <set id="kardiolog">
+                <name>кардиолог</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+            </set>
+            <set id="kardiolog-aritmolog">
+                <name>кардиолог-аритмолог</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+            </set>
+            <set id="kardiohirurg">
+                <name>кардиохирург</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+            </set>
+            <set id="somnolog">
+                <name>сомнолог</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+            </set>
+            <set id="serdechno-sosudistyj-hirurg">
+                <name>сердечно-сосудистый хирург</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+            </set>
+            <set id="uzi-spec">
+                <name>врач ультразвуковой диагностики</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-2</url>
+            </set>
+            <set id="funktsionalnyj-diagnost">
+                <name>врач функциональной диагностики</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-2</url>
+            </set>
+            <set id="nevrolog">
+                <name>невролог</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-3</url>
+            </set>
+            <set id="revmatolog">
+                <name>ревматолог</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-4</url>
+            </set>
+            <set id="terapevt">
+                <name>терапевт</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-5</url>
+            </set>
+            <set id="ehndokrinolog">
+                <name>эндокринолог</name>
+                <url>https://stcardio.ru/doctors#!/tab/616854281-6</url>
+            </set>
+        </sets>
+        <offers>
+            <offer id="1">
+            <url>https://stcardio.ru/doctors/baimuradov-firuz-usmanovich</url>
+            <name>Баймурадов Фируз Усманович</name>
+            <description>Врач общей практики, семейный врач, терапевт высшей категории, кандидат медицинских наук</description>
+            <price>3000</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3634-3936-4662-b862-323861643034/8W5A2413_1-min.jpg</picture>
+            <set-ids>terapevt</set-ids>
+            <param name="Годы опыта">25</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/baimuradov-firuz-usmanovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="2">
+            <url>https://stcardio.ru/doctors/baturova-mariia-albertovna</url>
+            <name>Батурова Мария Альбертовна</name>
+            <description>Кардиолог-аритмолог высшей категории, кандидат медицинских наук</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3934-6461-4333-a462-333566323736/8W5A3667_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">25</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/baturova-mariia-albertovna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="3">
+            <url>https://stcardio.ru/doctors/bocva-irina-yurievna</url>
+            <name>Боцва Ирина Юрьевна</name>
+            <description>Кардиолог высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6562-3363-4934-b236-393235663530/8W5A4355_1-min.jpg</picture>
+            <set-ids>kardiolog</set-ids>
+            <param name="Годы опыта">18</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/bocva-irina-yurievna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="4">
+            <url>https://stcardio.ru/doctors/gnevasheva-natalya-anatolevna</url>
+            <name>Гневашева Наталья Анатольевна</name>
+            <description>Врач функциональной диагностики, кандидат медицинских наук</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3261-6531-4666-b966-326161373765/IMG_9933.JPG</picture>
+            <set-ids>funktsionalnyj-diagnost</set-ids>
+            <param name="Годы опыта">13</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/gnevasheva-natalya-anatolevna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="5">
+            <url>https://stcardio.ru/doctors/gordeeva-marina-valentinovna</url>
+            <name>Гордеева Марина Валентиновна</name>
+            <description>Кардиолог-аритмолог высшей категории, кандидат медицинских наук, заместитель главного врача по лечебной работе</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3634-3362-4337-a232-373737656238/8W5A3695_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">30</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/gordeeva-marina-valentinovna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="6">
+            <url>https://stcardio.ru/doctors/kamenev-aleksandr-valentinovich</url>
+            <name>Каменев Александр Валентинович</name>
+            <description>Интервенционный кардиолог-аритмолог, кардиохирург высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3034-3762-4264-b533-373630356430/8W5A3352_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog,kardiohirurg</set-ids>
+            <param name="Годы опыта">15</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/kamenev-aleksandr-valentinovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="7">
+            <url>https://stcardio.ru/doctors/korneev-aleksandr-borisovich</url>
+            <name>Корнеев Александр Борисович</name>
+            <description>Кардиолог, терапевт</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3563-6264-4231-b764-666438626538/8W5A4036_1-min.jpg</picture>
+            <set-ids>kardiolog,terapevt</set-ids>
+            <param name="Годы опыта">3</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/korneev-aleksandr-borisovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="8">
+            <url>https://stcardio.ru/doctors/kozlov-pavel-stanislavovich</url>
+            <name>Козлов Павел Станиславович</name>
+            <description>Врач функциональной диагностики, кардиолог, кандидат медицинских наук</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6631-6165-4665-a331-613337366661/8W5A3302_1-min.jpg</picture>
+            <set-ids>kardiolog,funktsionalnyj-diagnost</set-ids>
+            <param name="Годы опыта">15</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/kozlov-pavel-stanislavovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="9">
+            <url>https://stcardio.ru/doctors/kriatova-tatiana-vadimovna</url>
+            <name>Крятова Татьяна Вадимовна</name>
+            <description>Кардиолог-аритмолог высшей категории, кандидат медицинских наук</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3961-6366-4461-a435-643133396139/8W5A3921_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">40</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/kriatova-tatiana-vadimovna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="10">
+            <url>https://stcardio.ru/doctors/kudinov-pavel-yurevich</url>
+            <name>Кудинов Павел Юрьевич</name>
+            <description>Кардиолог-сомнолог</description>
+            <price>3000</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3965-3634-4362-b134-653332336562/8W5A5011_1__.jpg</picture>
+            <set-ids>kardiolog,somnolog</set-ids>
+            <param name="Годы опыта">20</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/korneev-aleksandr-borisovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="11">
+            <url>https://stcardio.ru/doctors/laevskaia-mariia-iurevna</url>
+            <name>Лаевская Мария Юрьевна</name>
+            <description>Эндокринолог, старший научный сотрудник НИЛ диабетологии высшей категории, кандидат медицинских наук</description>
+            <price>2500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6230-6139-4437-b632-613031316635/8W5A4069_1-min.jpg</picture>
+            <set-ids>ehndokrinolog</set-ids>
+            <param name="Годы опыта">25</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/laevskaia-mariia-iurevna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="12">
+            <url>https://stcardio.ru/doctors/levina-tatiyana-mihajlovna</url>
+            <name>Левина Татьяна Михайловна</name>
+            <description>Врач функциональной и ультразвуковой диагностики высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6236-3437-4866-a566-623032346162/3.jpg</picture>
+            <set-ids>uzi-spec,funktsionalnyj-diagnost</set-ids>
+            <param name="Годы опыта">25</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/levina-tatiyana-mihajlovna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="13">
+            <url>https://stcardio.ru/doctors/matveev-nikolaj-vitalevich</url>
+            <name>Матвеев Николай Витальевич</name>
+            <description>Специалист по сопровождению пациентов с нарушениями обмена веществ высшей категории, кандидат медицинских наук</description>
+            <price>3000</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3437-6339-4364-b936-343837643530/2c5d360e-9897-402e-a.jpg</picture>
+            <set-ids>ehndokrinolog</set-ids>
+            <param name="Годы опыта">30</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/matveev-nikolaj-vitalevich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="14">
+            <url>https://stcardio.ru/doctors/medvedev-mihail-markovich</url>
+            <name>Медведев Михаил Маркович</name>
+            <description>Кардиолог-аритмолог высшей категории, доктор медицинских наук, ведущий научный сотрудник НКиОЦ "Кардиология" СПбГУ</description>
+            <price>5000</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6539-6639-4863-b435-663738393835/8W5A4708_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">40</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/medvedev-mihail-markovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="15">
+            <url>https://stcardio.ru/doctors/nikitin-sergei-petrovich</url>
+            <name>Никитин Сергей Петрович</name>
+            <description>Врач функциональной и ультразвуковой диагностики высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6562-3739-4538-b534-313533386465/8W5A2293_1-min.jpg</picture>
+            <set-ids>uzi-spec,funktsionalnyj-diagnost</set-ids>
+            <param name="Годы опыта">10</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/nikitin-sergei-petrovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="16">
+            <url>https://stcardio.ru/doctors/pobegai-olga-vladimirovna</url>
+            <name>Побегай Ольга Владимировна</name>
+            <description>Ревматолог, кардиолог высшей категории, кандидат медицинских наук</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3139-6132-4263-b362-346131343832/8W5A3672_1-min.jpg</picture>
+            <set-ids>kardiolog,revmatolog</set-ids>
+            <param name="Годы опыта">25</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/pobegai-olga-vladimirovna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="17">
+            <url>https://stcardio.ru/doctors/pozdnyakov-yurij-nikolaevich</url>
+            <name>Поздняков Юрий Николаевич</name>
+            <description>Кардиолог-аритмолог</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3938-6631-4230-a637-366333363461/8W5A0246_1.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">20</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/pozdnyakov-yurij-nikolaevich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="18">
+            <url>https://stcardio.ru/doctors/rivin-aleksei-evgenevich</url>
+            <name>Ривин Алексей Евгеньевич</name>
+            <description>Кардиолог-аритмолог высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3936-6265-4164-a338-313831653562/8W5A3410_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">20</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/rivin-aleksei-evgenevich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="19">
+            <url>https://stcardio.ru/doctors/romashevskij-boris-vladimirovich</url>
+            <name>Ромашевский Борис Владимирович</name>
+            <description>Эндокринолог, терапевт высшей категории, кандидат медицинских наук</description>
+            <price>2500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6565-3564-4333-a161-336236623334/8W5A0233_1__.jpg</picture>
+            <set-ids>terapevt,ehndokrinolog</set-ids>
+            <param name="Годы опыта">30</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/romashevskij-boris-vladimirovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="20">
+            <url>https://stcardio.ru/doctors/shubik-iurii-viktorovich</url>
+            <name>Шубик Юрий Викторович</name>
+            <description>Кардиолог-аритмолог высшей категории, доктор медицинских наук, профессор, научный руководитель клиники</description>
+            <price>5000</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3366-3538-4463-b664-323436373732/8W5A4594_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">40</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/shubik-iurii-viktorovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="21">
+            <url>https://stcardio.ru/doctors/skigin-ilia-olegovich</url>
+            <name>Скигин Илья Олегович</name>
+            <description>Сердечно-сосудистый хирург высшей категории, кандидат медицинских наук</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6561-6235-4234-a263-333033613265/8W5A3606_1-min.jpg</picture>
+            <set-ids>serdechno-sosudistyj-hirurg</set-ids>
+            <param name="Годы опыта">20</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/skigin-ilia-olegovich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="22">
+            <url>https://stcardio.ru/doctors/sokurenko-natalia-sergeevna</url>
+            <name>Сокуренко Наталья Сергеевна</name>
+            <description>Кардиолог-аритмолог высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3532-3933-4165-b332-636531313439/8W5A3446_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">30</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/sokurenko-natalia-sergeevna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="23">
+            <url>https://stcardio.ru/doctors/sorejya-asafovna-urazgildeeva</url>
+            <name>Сорейя Асафовна Уразгильдеева</name>
+            <description>Кардиолог-липидолог, доктор медицинских наук, врач высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3835-6431-4265-a366-353335326263/1421acb7-2e0e-4580-9.jpg</picture>
+            <set-ids>kardiolog</set-ids>
+            <param name="Годы опыта">35</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/sorejya-asafovna-urazgildeeva</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="24">
+            <url>https://stcardio.ru/doctors/vakushkina-svetlana-alekseevna</url>
+            <name>Вакушкина Светлана Алексеевна</name>
+            <description>Невролог высшей категории, заместитель главного врача по клинико-экспертной работе</description>
+            <price>2500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3536-3530-4162-a166-363263353035/8W5A4548_1-min.jpg</picture>
+            <set-ids>nevrolog</set-ids>
+            <param name="Годы опыта">30</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/vakushkina-svetlana-alekseevna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="25">
+            <url>https://stcardio.ru/doctors/veleslavova-olga-evgenevna</url>
+            <name>Велеславова Ольга Евгеньевна</name>
+            <description>Кардиолог-аритмолог высшей категории</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3362-3937-4131-b334-653435383938/8W5A4857_1_2.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">18</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/veleslavova-olga-evgenevna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="26">
+            <url>https://stcardio.ru/doctors/zadionova-elena-borisovna</url>
+            <name>Задионова Елена Борисовна</name>
+            <description>Врач ультразвуковой диагностики, заведующая отделением ультразвуковой и функциональной диагностики</description>
+            <price>3500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild6433-3463-4063-a432-323436356261/8W5A2379_1-min.jpg</picture>
+            <set-ids>uzi-spec</set-ids>
+            <param name="Годы опыта">5</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/doctors/zadionova-elena-borisovna</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+            <offer id="27">
+            <url>https://stcardio.ru/heads/berman-mikhail-valerevich</url>
+            <name>Берман Михаил Валерьевич</name>
+            <description>Главный врач, кардиолог-аритмолог высшей категории</description>
+            <price>4500</price>
+            <categoryId>1</categoryId>
+            <currencyId>RUR</currencyId>
+            <picture>https://static.tildacdn.com/tild3838-3931-4663-b837-626265386633/8W5A2035_1-min.jpg</picture>
+            <set-ids>kardiolog-aritmolog</set-ids>
+            <param name="Годы опыта">20</param>
+            <param name="Город">Санкт-Петербург</param>
+            <param name="Город клиники">Санкт-Петербург</param>
+            <param name="Адрес клиники">пр. Луначарского, д. 40, к. 4</param>
+            <param name="Название клиники">Северо-Западный центр диагностики и лечения аритмий</param>
+            <param name="Возможность записи">true</param>
+            <param name="Телефон для записи">+7 (812) 677-77-03</param>
+            <param name="Ссылка на профиль врача">https://stcardio.ru/heads/berman-mikhail-valerevich</param>
+            <param name="Онлайн-расписание">false</param>
+            <param name="Взрослый врач">true</param>
+            <param name="Детский врач">false</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
