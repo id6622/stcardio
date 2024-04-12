@@ -13,47 +13,47 @@
         <sets>
             <set id="kardiolog">
                 <name>кардиолог</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="kardiolog-aritmolog">
                 <name>кардиолог-аритмолог</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="kardiohirurg">
                 <name>кардиохирург</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="somnolog">
                 <name>сомнолог</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="serdechno-sosudistyj-hirurg">
                 <name>сердечно-сосудистый хирург</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-1</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="uzi-spec">
                 <name>врач ультразвуковой диагностики</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-2</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="funktsionalnyj-diagnost">
                 <name>врач функциональной диагностики</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-2</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="nevrolog">
                 <name>невролог</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-3</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="revmatolog">
                 <name>ревматолог</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-4</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="terapevt">
                 <name>терапевт</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-5</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
             <set id="ehndokrinolog">
                 <name>эндокринолог</name>
-                <url>https://stcardio.ru/doctors#!/tab/616854281-6</url>
+                <url>https://stcardio.ru/doctors</url>
             </set>
         </sets>
         <offers>
